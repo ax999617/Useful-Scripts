@@ -1,5 +1,5 @@
 *.log
 __pycache__/
-config.ini  # 包含私密信息的文件名，换行添加一行文件名即可
-*.png #通配符快速排除
+config.ini
+*.png
 操作代码.txt
